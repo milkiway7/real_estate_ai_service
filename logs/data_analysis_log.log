@@ -1,157 +1,135 @@
-2025-07-13 13:45:35 - FetchBatch - INFO - Starting to fetch 2025-07-13 13:45:35 - httpx - INFO - HTTP Request: GET http://127.0.0.2025-07-13 13:45:35 - FetchBatch - INFO - Data fe2025-07-13 13:45:35 - root - INFO -2025-07-13 13:45:36 - Fetc2025-07-13 13:45:36 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTT2025-07-13 13:42025-07-13 13:45:36 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:36 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:36 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:37 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:37 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:38 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:38 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:38 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:38 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:39 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:39 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:40 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:40 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:40 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:40 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:41 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:41 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:42 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:42 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:42 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:42 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:43 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:43 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:44 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:44 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:44 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:44 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:45 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:45 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:46 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:46 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:46 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:46 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:47 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:47 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:47 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:47 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:48 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:48 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:49 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:49 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:49 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:49 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:50 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:50 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:51 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:51 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:51 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:51 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:52 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:52 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:52 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:52 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:53 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:53 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:54 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:54 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:54 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:54 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:55 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:55 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:56 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:56 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:56 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:56 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:57 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:57 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:58 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:58 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:58 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:58 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:59 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:59 - root - INFO - Data items fetched: 100
-2025-07-13 13:45:59 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:45:59 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:00 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:00 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:01 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:01 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:02 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:02 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:03 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:03 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:04 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:04 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:04 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:04 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:05 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:05 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:06 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:06 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:06 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:06 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:07 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:07 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:07 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:08 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:08 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:08 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:09 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:09 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:09 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:09 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:10 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:10 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:11 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:11 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:11 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:11 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:12 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:12 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:13 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:13 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:13 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:13 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:14 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:14 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:14 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:14 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:15 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:15 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:16 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:16 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:16 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:16 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:17 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:17 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:18 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:18 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:18 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:18 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:19 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:19 - root - INFO - Data items fetched: 100
-2025-07-13 13:46:19 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
-2025-07-13 13:46:19 - root - INFO - Data is less than 100, stopping fetch
-m http://127.0.0.1:8000/get_data_for_embedding
-2025-07-13 13:46:13 - FetchBatch - INFO - Data fetched successfully for embedding.
-2025-07-13 13:46:14 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
-2025-07-13 13:46:14 - FetchBatch - INFO - Data fetched successfully for embedding.
-2025-07-13 13:46:14 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
-2025-07-13 13:46:14 - FetchBatch - INFO - Data fetched successfully for embedding.
-2025-07-13 13:46:15 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
-2025-07-13 13:46:15 - FetchBatch - INFO - Data fetched successfully for embedding.
-2025-07-13 13:46:16 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
-2025-07-13 13:46:16 - FetchBatch - INFO - Data fetched successfully for embedding.
-2025-07-13 13:46:16 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
-2025-07-13 13:46:16 - FetchBatch - INFO - Data fetched successfully for embedding.
-2025-07-13 13:46:17 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
-2025-07-13 13:46:17 - FetchBatch - INFO - Data fetched successfully for embedding.
-2025-07-13 13:46:17 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
-2025-07-13 13:46:18 - FetchBatch - INFO - Data fetched successfully for embedding.
-2025-07-13 13:46:18 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
-2025-07-13 13:46:18 - FetchBatch - INFO - Data fetched successfully for embedding.
-2025-07-13 13:46:19 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
-2025-07-13 13:46:19 - FetchBatch - INFO - Data fetched successfully for embedding.
-2025-07-13 13:46:19 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
-2025-07-13 13:46:19 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:38:45 - FetchBatch - INFO - Starting to fetch 2025-07-13 17:38:42025-07-13 17:38:45 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:38:45 - Embed2025-07-13 17:38:46 - httpx - INFO - HTTP Request: 2025-07-13 17:38:46 - EmbeddingPipeline - INFO - Data items fetched:2025-07-13 17:38:47 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_dat2025-07-13 17:38:47 - EmbeddingPipe2025-07-13 17:38:48 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"202025-07-13 17:38:49 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:38:49 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:38:50 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:38:51 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:38:51 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:38:52 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:38:53 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:38:53 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:38:54 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:38:56 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:38:57 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:38:58 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:38:59 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:00 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:00 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:01 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:02 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:02 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:03 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:04 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:04 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:05 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:06 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:06 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:07 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:08 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:08 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:09 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:10 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:11 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:11 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:12 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:13 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:13 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:14 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:15 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:15 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:16 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:17 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:17 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:18 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:19 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:20 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:20 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:21 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:22 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:23 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:23 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:24 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:25 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:25 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:26 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:27 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:27 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:28 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:29 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:29 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:30 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:31 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:32 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:32 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:33 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:34 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:34 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:35 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-13 17:39:35 - root - INFO - Less than 100 items fetched, stopping the pipeline.
+2025-07-13 17:39:25 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:26 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:39:26 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:27 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:39:27 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:27 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:39:27 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:28 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:39:28 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:29 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:39:29 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:29 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:39:29 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:30 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:39:30 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:31 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:39:31 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:32 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:39:32 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:32 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:39:32 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:33 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:39:33 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:34 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:39:34 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:34 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-13 17:39:34 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-13 17:39:35 - EmbeddingPipeline - INFO - Data items fetched: 32
+025-07-13 17:39:22 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:22 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:22 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:23 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:23 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:23 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:24 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:24 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:24 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:25 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:25 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:25 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:26 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:26 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:27 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:27 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:27 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:27 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:28 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:28 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:29 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:29 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:29 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:29 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:30 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:30 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:31 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:31 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:31 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:32 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:32 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:32 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:33 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:33 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:34 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:34 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:34 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:34 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-13 17:39:35 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-13 17:39:35 - FetchBatch - INFO - Data fetched successfully for embedding.
