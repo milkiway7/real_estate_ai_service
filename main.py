@@ -5,8 +5,8 @@ from fastapi import FastAPI
 from Helpers.Logger import get_logger
 from EmbeddingPipeline.EmbeddingPipeline import EmbeddingPipeline
 from fastapi import HTTPException, status
-app = FastAPI()
 
+app = FastAPI()
 
 @app.post("/prepare_to_embedding")
 async def prepare_to_embedding():

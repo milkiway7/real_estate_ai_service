@@ -24,7 +24,7 @@ class EmbeddingPipeline:
                 self.logger.info("No data prepared for embedding, stopping the pipeline.")
                 return 0
             # Tokenizer & embedding with BAAI/bge-m3 on runpod.io
-
+            
             # Save to qudrant
             self.logger.info("Embedding pipeline completed successfully")
             return len(self.fetched_data)
