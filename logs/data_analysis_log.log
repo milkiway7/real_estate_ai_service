@@ -1,2 +1,4 @@
-2025-07-14 22:40:08 - FetchBatch - INFO - Starting to fetch 2025-07-14 22:40:02025-07-14 22:40:08 - EmbeddingPipeline - INFO - Data items fetched: 100
-2025-07-14 22:40:08 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-15 19:14:50 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-15 19:14:51 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-15 19:15:35 - EmbeddingClient - INFO - Fetching embedding result for task ID: 92b9ed65-09cf-4f60-9f68-f404c8b01a592025-2025-07-15 19:15:46 - EmbeddingClient - INFO - Embedding result fetched successfully
+cba/status/92b9ed65-09cf-4f60-9f68-f404c8b01a59-e1 "HTTP/1.1 200 OK"

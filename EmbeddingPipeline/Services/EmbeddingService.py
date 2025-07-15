@@ -1,4 +1,5 @@
 from Helpers.Logger import get_logger
+from DataClient.EmbeddingClient import EmbeddingClient
 
 class EmbeddingService:
     def __init__(self, data_for_embedding):
@@ -13,8 +14,10 @@ class EmbeddingService:
             # Where model BAAI/bge-m3 will be used for tokenization and embedding
             data_chunks = [self.data_for_embedding[i:i + 10] for i in range(0, len(self.data_for_embedding), 10)]
             self.logger.info(f"Data split into {len(data_chunks)} chunks for embedding")
+            embedding_client = EmbeddingClient()
             for chunk in data_chunks:
-                a =1
+                embedded_data = await embedding_client.get_embedding(chunk)
+                a = 1
         except Exception as e:
             self.logger.error(f"Error during embedding process: {e}")
             raise 
