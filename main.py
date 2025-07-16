@@ -16,7 +16,7 @@ async def prepare_to_embedding():
 
         while True:
             items_fetched = await pipeline.run()
-            if items_fetched < 100 or not items_fetched:
+            if items_fetched is None or items_fetched < 100:
                 get_logger().info("Less than 100 items fetched, stopping the pipeline.")
                 break
         return {"status": "success", "message": "Embedding preparation completed successfully."}

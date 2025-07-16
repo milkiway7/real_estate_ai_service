@@ -1,4 +1,432 @@
-2025-07-15 19:14:50 - EmbeddingClient - INFO - Start sending text data for embedding
-2025-07-15 19:14:51 - EmbeddingClient - INFO - Text data successfully sent for embedding
-2025-07-15 19:15:35 - EmbeddingClient - INFO - Fetching embedding result for task ID: 92b9ed65-09cf-4f60-9f68-f404c8b01a592025-2025-07-15 19:15:46 - EmbeddingClient - INFO - Embedding result fetched successfully
-cba/status/92b9ed65-09cf-4f60-9f68-f404c8b01a59-e1 "HTTP/1.1 200 OK"
+2025-07-16 18:22:22 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:22:23 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:22:23 - EmbeddingClient 2025-07-16 18:22:38 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:22:38 - FetchBatch - INFO - Dat2025-07-16 18:22:47 - EmbeddingClient -2025-07-16 18:23:08 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:23:08 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:23:21 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:23:21 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:23:30 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:23:30 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:23:38 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:23:39 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:23:48 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:23:51 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:24:03 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:24:04 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:24:14 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:24:15 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:24:25 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:24:40 - FetchBatch - ERROR - An error occurred while fetching data: 
+2025-07-16 18:27:51 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:27:51 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:28:01 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:28:01 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:28:10 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:28:11 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:28:19 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:28:19 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:28:28 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:28:28 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:28:36 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:28:37 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:28:45 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:28:45 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:28:53 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:28:53 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:29:02 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:29:02 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:29:10 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:29:11 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:29:19 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:29:20 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:29:28 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:29:28 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:29:36 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:29:36 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:29:44 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:29:44 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:29:53 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:29:53 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:30:02 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:30:02 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:30:10 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:30:10 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:30:19 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:30:19 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:30:28 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:30:28 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:30:36 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:30:36 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:30:45 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:30:45 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:30:53 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:30:53 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:31:01 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:31:02 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:31:10 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:31:10 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:31:18 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:31:18 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:31:27 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:31:27 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:31:36 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:31:36 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:31:45 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:31:45 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:31:53 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:31:53 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:32:01 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:32:01 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:32:10 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:32:10 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:32:18 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:32:18 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:32:26 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:32:26 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:32:35 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:32:35 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:32:44 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:32:45 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:32:53 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:32:53 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:33:01 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:33:01 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:33:10 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:33:10 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:33:19 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:33:19 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:33:27 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:33:28 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:33:36 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:33:36 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:33:44 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:33:45 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:33:53 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:33:53 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:34:01 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:34:02 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:34:10 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:34:10 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:34:18 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:34:18 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:34:27 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:34:27 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:34:35 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:34:35 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:34:43 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:34:44 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:34:52 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:34:52 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:35:01 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:35:01 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:35:10 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:35:10 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:35:18 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:35:18 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:35:28 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:35:28 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:35:36 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:35:36 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:35:44 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:35:45 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:35:53 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:35:53 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:36:02 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:36:02 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:36:10 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:36:10 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:36:19 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:36:19 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:36:27 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:36:27 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:36:35 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:36:36 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:36:44 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:36:44 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:36:52 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:36:52 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:37:01 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:37:01 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:37:09 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:37:09 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:37:17 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:37:17 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:37:25 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:37:26 - FetchBatch - INFO - Data fetched successfully for embedding.
+2025-07-16 18:37:34 - FetchBatch - INFO - Starting to fetch data for embedding from http://127.0.0.1:8000/get_data_for_embedding
+2025-07-16 18:37:34 - FetchBatch - INFO - Data fetched successfully for embedding.
+5-07-16 18:32:46 - EmbeddingClient - INFO - Fetching embedding result for task ID: 84224b0b-29e9-4a33-a3ca-389cd4e43b09-e1
+2025-07-16 18:32:53 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:32:53 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:32:54 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:32:54 - EmbeddingClient - INFO - Fetching embedding result for task ID: 7d40f17d-ef5a-45c0-aaab-357cf9286ae3-e2
+2025-07-16 18:33:01 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:33:01 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:33:03 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:33:03 - EmbeddingClient - INFO - Fetching embedding result for task ID: 0395fbc6-27e4-49dc-a800-8c709fa5cbdf-e1
+2025-07-16 18:33:10 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:33:10 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:33:12 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:33:12 - EmbeddingClient - INFO - Fetching embedding result for task ID: b1d355f4-5002-4577-bca5-6eb6140a9da5-e1
+2025-07-16 18:33:18 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:33:19 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:33:21 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:33:21 - EmbeddingClient - INFO - Fetching embedding result for task ID: 4d3d24bd-eea9-49b5-82e6-25068a71ba2d-e2
+2025-07-16 18:33:27 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:33:28 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:33:29 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:33:29 - EmbeddingClient - INFO - Fetching embedding result for task ID: 891311ed-df73-4d70-93f0-e150e30ea699-e2
+2025-07-16 18:33:35 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:33:36 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:33:37 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:33:37 - EmbeddingClient - INFO - Fetching embedding result for task ID: 9b5f8516-f3ee-4ba3-b44a-58999cd071ae-e2
+2025-07-16 18:33:44 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:33:45 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:33:46 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:33:46 - EmbeddingClient - INFO - Fetching embedding result for task ID: 3d4678c9-18fe-4bc6-9cd4-c4a7b8fe26d2-e1
+2025-07-16 18:33:52 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:33:53 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:33:54 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:33:54 - EmbeddingClient - INFO - Fetching embedding result for task ID: 2e1a7fef-cdad-4466-bb47-7b72af9fdbfd-e2
+2025-07-16 18:34:01 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:34:02 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:34:03 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:34:03 - EmbeddingClient - INFO - Fetching embedding result for task ID: 9cc21b15-0816-45aa-8321-a02034fedc06-e1
+2025-07-16 18:34:09 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:34:10 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:34:11 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:34:11 - EmbeddingClient - INFO - Fetching embedding result for task ID: 8fe21958-03b5-4592-9b97-424a52e1be37-e2
+2025-07-16 18:34:17 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:34:18 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:34:20 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:34:20 - EmbeddingClient - INFO - Fetching embedding result for task ID: f1419f56-6de9-4d01-859e-4fb143489e9a-e2
+2025-07-16 18:34:26 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:34:27 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:34:28 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:34:28 - EmbeddingClient - INFO - Fetching embedding result for task ID: 62f2264f-a1f5-4ccb-b818-79f5281cf71d-e1
+2025-07-16 18:34:34 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:34:35 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:34:36 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:34:36 - EmbeddingClient - INFO - Fetching embedding result for task ID: 1d281416-1e0d-430d-b5e2-125a06b4d682-e1
+2025-07-16 18:34:43 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:34:44 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:34:45 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:34:45 - EmbeddingClient - INFO - Fetching embedding result for task ID: 23400444-a90b-490c-b7a9-ebf923c0f158-e1
+2025-07-16 18:34:52 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:34:52 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:34:54 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:34:54 - EmbeddingClient - INFO - Fetching embedding result for task ID: 84b0b6e3-7ee6-4c88-8450-20c19b02df41-e1
+2025-07-16 18:35:00 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:35:01 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:35:03 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:35:03 - EmbeddingClient - INFO - Fetching embedding result for task ID: e6d077b0-582c-4515-b173-6c54e359a81c-e2
+2025-07-16 18:35:09 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:35:10 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:35:11 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:35:11 - EmbeddingClient - INFO - Fetching embedding result for task ID: ec7c8940-fbfd-4ad2-808f-0b74609d924e-e1
+2025-07-16 18:35:17 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:35:18 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:35:19 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:35:19 - EmbeddingClient - INFO - Fetching embedding result for task ID: d8e2db3b-4926-42bc-bd71-5e3ab19f473f-e2
+2025-07-16 18:35:27 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:35:28 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:35:29 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:35:29 - EmbeddingClient - INFO - Fetching embedding result for task ID: a0f9b714-e63a-4d04-bb3e-582611fd430d-e2
+2025-07-16 18:35:35 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:35:36 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:35:38 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:35:38 - EmbeddingClient - INFO - Fetching embedding result for task ID: 17477796-c0b5-443a-8735-f2f656b58537-e2
+2025-07-16 18:35:44 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:35:45 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:35:46 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:35:46 - EmbeddingClient - INFO - Fetching embedding result for task ID: c0512fee-451f-40a7-832d-f9a10c1cb81d-e2
+2025-07-16 18:35:52 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:35:53 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:35:55 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:35:55 - EmbeddingClient - INFO - Fetching embedding result for task ID: 0ad661fd-8cf2-48f4-ba68-94dc68da97af-e1
+2025-07-16 18:36:01 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:36:02 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:36:03 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:36:03 - EmbeddingClient - INFO - Fetching embedding result for task ID: 0b9de9c8-f029-4dd6-a683-44a16f6b97f7-e1
+2025-07-16 18:36:10 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:36:10 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:36:12 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:36:12 - EmbeddingClient - INFO - Fetching embedding result for task ID: b3b918f4-6da7-4dbb-8d20-a59c6e94eabe-e1
+2025-07-16 18:36:18 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:36:19 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:36:20 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:36:20 - EmbeddingClient - INFO - Fetching embedding result for task ID: 9c07dd93-ff67-4171-8794-960f139f1387-e1
+2025-07-16 18:36:26 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:36:27 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:36:28 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:36:28 - EmbeddingClient - INFO - Fetching embedding result for task ID: f3454c33-7bfc-412d-ad54-3b91e2fa407d-e1
+2025-07-16 18:36:35 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:36:36 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:36:37 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:36:37 - EmbeddingClient - INFO - Fetching embedding result for task ID: 6d17a7b7-d0e2-4375-920f-aa701c40b58d-e1
+2025-07-16 18:36:43 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:36:44 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:36:45 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:36:45 - EmbeddingClient - INFO - Fetching embedding result for task ID: 25855d9f-91ad-460e-b3f3-57e99f9ae7a7-e1
+2025-07-16 18:36:52 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:36:52 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:36:54 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:36:54 - EmbeddingClient - INFO - Fetching embedding result for task ID: 5221223f-4fa0-4281-97ad-038a0f1e27d3-e2
+2025-07-16 18:37:00 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:37:01 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:37:02 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:37:02 - EmbeddingClient - INFO - Fetching embedding result for task ID: 2e19aace-0f71-470d-a96b-fc0e79648082-e2
+2025-07-16 18:37:08 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:37:09 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:37:10 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:37:10 - EmbeddingClient - INFO - Fetching embedding result for task ID: cec78ae5-5a00-4d4d-87aa-c7618254de68-e1
+2025-07-16 18:37:17 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:37:17 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:37:18 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:37:18 - EmbeddingClient - INFO - Fetching embedding result for task ID: 73ad535c-b77f-4f54-ad53-6b0d4206c7b4-e2
+2025-07-16 18:37:25 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:37:26 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:37:27 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:37:27 - EmbeddingClient - INFO - Fetching embedding result for task ID: 59fe9d4f-efdf-4fcc-83b8-9f20fee59bf9-e2
+2025-07-16 18:37:33 - EmbeddingClient - INFO - Embedding result fetched successfully
+2025-07-16 18:37:34 - EmbeddingClient - INFO - Start sending text data for embedding
+2025-07-16 18:37:35 - EmbeddingClient - INFO - Text data successfully sent for embedding
+2025-07-16 18:37:35 - EmbeddingClient - INFO - Fetching embedding result for task ID: eae7467d-8e95-47cb-ad51-c9d0158aa2a6-e2
+2025-07-16 18:37:41 - EmbeddingClient - INFO - Embedding result fetched successfully
+: 5400 items
+2025-07-16 18:35:35 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:35:35 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:35:36 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:35:36 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:35:36 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:35:44 - EmbeddingPipeline - INFO - Embeddings received: 5500 items
+2025-07-16 18:35:44 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:35:44 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:35:45 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:35:45 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:35:45 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:35:52 - EmbeddingPipeline - INFO - Embeddings received: 5600 items
+2025-07-16 18:35:52 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:35:52 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:35:53 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:35:53 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:35:53 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:36:01 - EmbeddingPipeline - INFO - Embeddings received: 5700 items
+2025-07-16 18:36:01 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:36:01 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:36:02 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:36:02 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:36:02 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:36:10 - EmbeddingPipeline - INFO - Embeddings received: 5800 items
+2025-07-16 18:36:10 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:36:10 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:36:10 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:36:10 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:36:10 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:36:18 - EmbeddingPipeline - INFO - Embeddings received: 5900 items
+2025-07-16 18:36:18 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:36:18 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:36:19 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:36:19 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:36:19 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:36:26 - EmbeddingPipeline - INFO - Embeddings received: 6000 items
+2025-07-16 18:36:26 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:36:26 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:36:27 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:36:27 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:36:27 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:36:35 - EmbeddingPipeline - INFO - Embeddings received: 6100 items
+2025-07-16 18:36:35 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:36:35 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:36:36 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:36:36 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:36:36 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:36:43 - EmbeddingPipeline - INFO - Embeddings received: 6200 items
+2025-07-16 18:36:43 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:36:43 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:36:44 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:36:44 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:36:44 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:36:52 - EmbeddingPipeline - INFO - Embeddings received: 6300 items
+2025-07-16 18:36:52 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:36:52 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:36:52 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:36:52 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:36:52 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:37:00 - EmbeddingPipeline - INFO - Embeddings received: 6400 items
+2025-07-16 18:37:00 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:37:00 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:37:01 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:37:01 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:37:01 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:37:08 - EmbeddingPipeline - INFO - Embeddings received: 6500 items
+2025-07-16 18:37:08 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:37:08 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:37:09 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:37:09 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:37:09 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:37:17 - EmbeddingPipeline - INFO - Embeddings received: 6600 items
+2025-07-16 18:37:17 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:37:17 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:37:17 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:37:17 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:37:17 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:37:25 - EmbeddingPipeline - INFO - Embeddings received: 6700 items
+2025-07-16 18:37:25 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:37:25 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:37:26 - EmbeddingPipeline - INFO - Data items fetched: 100
+2025-07-16 18:37:26 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:37:26 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:37:33 - EmbeddingPipeline - INFO - Embeddings received: 6800 items
+2025-07-16 18:37:33 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+2025-07-16 18:37:33 - EmbeddingPipeline - INFO - Starting embedding pipeline
+2025-07-16 18:37:34 - EmbeddingPipeline - INFO - Data items fetched: 32
+2025-07-16 18:37:34 - EmbeddingPipeline - INFO - Joining texts for embedding
+2025-07-16 18:37:34 - EmbeddingPipeline - INFO - Starting embedding process
+2025-07-16 18:37:41 - EmbeddingPipeline - INFO - Embeddings received: 6832 items
+2025-07-16 18:37:41 - EmbeddingPipeline - INFO - Embedding pipeline completed successfully
+dding "HTTP/1.1 200 OK"
+2025-07-16 18:36:12 - httpx - INFO - HTTP Request: POST https://api.runpod.ai/v2/snqpvx1bssdcba/run "HTTP/1.1 200 OK"
+2025-07-16 18:36:12 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/b3b918f4-6da7-4dbb-8d20-a59c6e94eabe-e1 "HTTP/1.1 200 OK"
+2025-07-16 18:36:17 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/b3b918f4-6da7-4dbb-8d20-a59c6e94eabe-e1 "HTTP/1.1 200 OK"
+2025-07-16 18:36:19 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-16 18:36:20 - httpx - INFO - HTTP Request: POST https://api.runpod.ai/v2/snqpvx1bssdcba/run "HTTP/1.1 200 OK"
+2025-07-16 18:36:21 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/9c07dd93-ff67-4171-8794-960f139f1387-e1 "HTTP/1.1 200 OK"
+2025-07-16 18:36:26 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/9c07dd93-ff67-4171-8794-960f139f1387-e1 "HTTP/1.1 200 OK"
+2025-07-16 18:36:27 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-16 18:36:28 - httpx - INFO - HTTP Request: POST https://api.runpod.ai/v2/snqpvx1bssdcba/run "HTTP/1.1 200 OK"
+2025-07-16 18:36:29 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/f3454c33-7bfc-412d-ad54-3b91e2fa407d-e1 "HTTP/1.1 200 OK"
+2025-07-16 18:36:34 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/f3454c33-7bfc-412d-ad54-3b91e2fa407d-e1 "HTTP/1.1 200 OK"
+2025-07-16 18:36:36 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-16 18:36:37 - httpx - INFO - HTTP Request: POST https://api.runpod.ai/v2/snqpvx1bssdcba/run "HTTP/1.1 200 OK"
+2025-07-16 18:36:37 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/6d17a7b7-d0e2-4375-920f-aa701c40b58d-e1 "HTTP/1.1 200 OK"
+2025-07-16 18:36:43 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/6d17a7b7-d0e2-4375-920f-aa701c40b58d-e1 "HTTP/1.1 200 OK"
+2025-07-16 18:36:44 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-16 18:36:45 - httpx - INFO - HTTP Request: POST https://api.runpod.ai/v2/snqpvx1bssdcba/run "HTTP/1.1 200 OK"
+2025-07-16 18:36:46 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/25855d9f-91ad-460e-b3f3-57e99f9ae7a7-e1 "HTTP/1.1 200 OK"
+2025-07-16 18:36:51 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/25855d9f-91ad-460e-b3f3-57e99f9ae7a7-e1 "HTTP/1.1 200 OK"
+2025-07-16 18:36:52 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-16 18:36:54 - httpx - INFO - HTTP Request: POST https://api.runpod.ai/v2/snqpvx1bssdcba/run "HTTP/1.1 200 OK"
+2025-07-16 18:36:54 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/5221223f-4fa0-4281-97ad-038a0f1e27d3-e2 "HTTP/1.1 200 OK"
+2025-07-16 18:36:59 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/5221223f-4fa0-4281-97ad-038a0f1e27d3-e2 "HTTP/1.1 200 OK"
+2025-07-16 18:37:01 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-16 18:37:02 - httpx - INFO - HTTP Request: POST https://api.runpod.ai/v2/snqpvx1bssdcba/run "HTTP/1.1 200 OK"
+2025-07-16 18:37:03 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/2e19aace-0f71-470d-a96b-fc0e79648082-e2 "HTTP/1.1 200 OK"
+2025-07-16 18:37:08 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/2e19aace-0f71-470d-a96b-fc0e79648082-e2 "HTTP/1.1 200 OK"
+2025-07-16 18:37:09 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-16 18:37:10 - httpx - INFO - HTTP Request: POST https://api.runpod.ai/v2/snqpvx1bssdcba/run "HTTP/1.1 200 OK"
+2025-07-16 18:37:11 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/cec78ae5-5a00-4d4d-87aa-c7618254de68-e1 "HTTP/1.1 200 OK"
+2025-07-16 18:37:16 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/cec78ae5-5a00-4d4d-87aa-c7618254de68-e1 "HTTP/1.1 200 OK"
+2025-07-16 18:37:17 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-16 18:37:18 - httpx - INFO - HTTP Request: POST https://api.runpod.ai/v2/snqpvx1bssdcba/run "HTTP/1.1 200 OK"
+2025-07-16 18:37:19 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/73ad535c-b77f-4f54-ad53-6b0d4206c7b4-e2 "HTTP/1.1 200 OK"
+2025-07-16 18:37:24 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/73ad535c-b77f-4f54-ad53-6b0d4206c7b4-e2 "HTTP/1.1 200 OK"
+2025-07-16 18:37:26 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-16 18:37:27 - httpx - INFO - HTTP Request: POST https://api.runpod.ai/v2/snqpvx1bssdcba/run "HTTP/1.1 200 OK"
+2025-07-16 18:37:28 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/59fe9d4f-efdf-4fcc-83b8-9f20fee59bf9-e2 "HTTP/1.1 200 OK"
+2025-07-16 18:37:33 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/59fe9d4f-efdf-4fcc-83b8-9f20fee59bf9-e2 "HTTP/1.1 200 OK"
+2025-07-16 18:37:34 - httpx - INFO - HTTP Request: GET http://127.0.0.1:8000/get_data_for_embedding "HTTP/1.1 200 OK"
+2025-07-16 18:37:35 - httpx - INFO - HTTP Request: POST https://api.runpod.ai/v2/snqpvx1bssdcba/run "HTTP/1.1 200 OK"
+2025-07-16 18:37:36 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/eae7467d-8e95-47cb-ad51-c9d0158aa2a6-e2 "HTTP/1.1 200 OK"
+2025-07-16 18:37:41 - httpx - INFO - HTTP Request: GET https://api.runpod.ai/v2/snqpvx1bssdcba/status/eae7467d-8e95-47cb-ad51-c9d0158aa2a6-e2 "HTTP/1.1 200 OK"
+2025-07-16 18:37:41 - root - INFO - Less than 100 items fetched, stopping the pipeline.

@@ -2,11 +2,11 @@ from Helpers.Logger import get_logger
 
 class PrepareDataForEmbeddingService:
     def __init__(self):
-        self.prepared_data = []
         self.logger = get_logger(self.__class__.__name__)   
         
     def build_text(self, fetched_data):
         try:
+            prepared_data = []
             for item in fetched_data:
                 text = (
                     f"Tytuł ogłoszenia: {self.get_or_default(item["Title"])} "
@@ -26,8 +26,8 @@ class PrepareDataForEmbeddingService:
                     f"Dodatkowe informacje: {self.get_or_default(item['AdditionalInfo'])} "
                     f"Rodzaj oferty: {self.get_or_default(item['OfferType'])} "
                     )
-                self.prepared_data.append(text)
-            return self.prepared_data
+                prepared_data.append(text)
+            return prepared_data
         except Exception as e:
             self.logger.error(f"Error while building text for embedding: {e}")
             return []

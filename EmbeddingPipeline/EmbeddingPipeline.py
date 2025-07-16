@@ -1,7 +1,7 @@
 from DataClient.FetchBatchClient import FetchBatch
 from Helpers.Logger import get_logger
 from EmbeddingPipeline.Services.PrepareDataForEmbeddingService import PrepareDataForEmbeddingService
-from EmbeddingPipeline.Services.EmbeddingService import EmbeddingService
+from DataClient.EmbeddingClient import EmbeddingClient
 
 class EmbeddingPipeline:
     def __init__(self):
@@ -9,6 +9,8 @@ class EmbeddingPipeline:
         self.prepare_data_service = PrepareDataForEmbeddingService()
         self.logger = get_logger(self.__class__.__name__)
         self.fetched_data = None
+        self.embedding_count = 0
+
     async def run(self):
         try:
             self.logger.info("Starting embedding pipeline")
@@ -25,8 +27,11 @@ class EmbeddingPipeline:
                 self.logger.info("No data prepared for embedding, stopping the pipeline.")
                 return 0
             # Tokenizer & embedding with BAAI/bge-m3 on runpod.io
-            embedding_service = EmbeddingService(data_for_embedding)
-            await embedding_service.embed()
+            self.logger.info("Starting embedding process")
+            embedding_client = EmbeddingClient()
+            embeddings = await embedding_client.get_embedding(data_for_embedding)
+            self.embedding_count += len(embeddings)
+            self.logger.info(f"Embeddings received: {self.embedding_count} items")
             # Save to qudrant
             self.logger.info("Embedding pipeline completed successfully")
             return len(self.fetched_data)

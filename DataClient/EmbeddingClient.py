@@ -1,7 +1,8 @@
 from Helpers.Logger import get_logger
 import httpx
 import os
-from fastapi import HTTPException, status
+from fastapi import HTTPException
+import asyncio
 
 class EmbeddingClient:
     def __init__(self):
@@ -17,7 +18,7 @@ class EmbeddingClient:
         try:
             task_id = await self.send_data_get_task_id(data_for_embedding)
             embeddings = await self.get_embedding_result(task_id)
-            a = 1
+            return embeddings
         except httpx.HTTPStatusError as e:
             self.logger.error(f"HTTP error occurred in get_embedding: {e.response.status_code} - {e.response.text}")
             raise HTTPException(
@@ -54,19 +55,25 @@ class EmbeddingClient:
         try:
             self.logger.info(f"Fetching embedding result for task ID: {task_id}")
             async with httpx.AsyncClient(timeout=self.timeout) as client:
-                response = await client.get(
-                    f"{self.baai_bge_m3_url}/status/{task_id}",
-                    headers=self.headers
-                )
-                response.raise_for_status()
-                self.logger.info("Embedding result fetched successfully")
-                response_data = response.json()
-                # if response_data["status"] != "completed":
-                #     raise HTTPException(
-                #         status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-                #         detail="Embedding task not completed."
-                #     )
-                return response_data["result"]
+                for attempt in range(30):
+                    response = await client.get(
+                        f"{self.baai_bge_m3_url}/status/{task_id}",
+                        headers=self.headers
+                    )
+                    response.raise_for_status()
+                    data = response.json()
+                    status = data.get("status")
+                    if status == "COMPLETED":
+                        self.logger.info("Embedding result fetched successfully")
+                        return data["output"]["data"]
+                    elif status == "FAILED":
+                        self.logger.error(f"Embedding task failed: {status}")
+                        raise HTTPException(
+                            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                            detail=f"Embedding task {status.lower()}"
+                        )   
+                    await asyncio.sleep(5)
+                raise TimeoutError("Embedding task timed out after 30 attempts")
         except httpx.HTTPStatusError as e:
             self.logger.error(f"HTTP error occurred in get_embedding_result: {e.response.status_code} - {e.response.text}")
             raise HTTPException(
